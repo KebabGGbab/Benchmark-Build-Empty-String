@@ -4,7 +4,7 @@ The following possible options for declaring an empty string take part in the be
 * `String.Empty`
 * `""`
 * `new StringBuilder().ToString()`
-* `new string("")`
+* `new string("")`<br>
 The result is shown in the screenshot:
 ![image](https://github.com/KebabGGbab/Benchmark-Build-Empty-String/assets/135259846/6431bfec-4c82-46ee-b2d1-87bddcdf039e)
 
